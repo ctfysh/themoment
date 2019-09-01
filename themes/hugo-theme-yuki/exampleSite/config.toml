@@ -23,7 +23,7 @@ paginate = 10
   favicon = "images/logo.png"
   logo = "images/logo.png"
   avatar = ""
-  displayImg = "images/display.png"
+  displayImg = "images/display.jpg"
 
   # This will display on the index page
   snsTitle = "Social"

@@ -25,7 +25,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   favicon = "images/logo.png"
   logo = "images/logo.png"
   # avatar = ""
-  displayImg = "images/display.png"
+  displayImg = "images/display.jpg"
 
   # # This will display on the index page
   # snsTitle = "Social"

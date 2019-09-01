@@ -1,0 +1,31 @@
+{{ partial "header.html" . }}
+
+<div class="main-content">
+    {{ $baseurl := .Site.BaseURL | sanitizeurl }}
+    <div class="main-content__title title-type__custom u-font">
+        <h1 id="title">日志列表</h1>
+    </div>
+
+    <article>
+        <div class="main-content__posts index-posts">
+            {{ range .Pages.GroupByDate "2006" }}
+            <h4 class="main-content__title title-type__custom u-font">{{ .Key }}</h4>
+            <div class="index-posts">
+                {{ range .Pages.GroupByDate "2006-01-02" }}
+                {{ range .Pages }}
+                <div class="index-posts__list">
+                    <div class="l-time"><a href="{{.Permalink}}">{{ .Date.Format "2006年1月2日" }}</a></div>
+                    <div class="l-title"><a href="{{.Permalink}}">{{.Title}}</a></div>
+                </div>
+                {{ end }}
+                {{ end }}
+            </div>
+            {{ end }}
+            <div class="index-paginate">
+                {{ partial "pagination.html" . }}
+            </div>
+        </div>
+    </article>
+</div>
+
+{{ partial "footer.html" . }}

@@ -1,0 +1,77 @@
+{{ partial "header.html" . }}
+
+<div class="main-content">
+    <div class="main-content__date">
+        <h4 id="date"> {{ .Date.Format "2006年1月2日" }} </h4>
+    </div>
+    <div class="main-content__title">
+        <h1 id="title">{{ .Title }}</h1>
+    </div>
+    <div class="main-content__article">
+        <article id="content">
+            {{ .Content }}
+        </article>
+    </div>
+    <div class="main-content__tags u-font">
+        {{ with .Params.tags }}
+        {{ range . }}
+        <span><a href="{{ "tags/" | absURL }}{{ . | urlize }}">{{ . }}</a></span>
+        {{ end }}
+        {{ end }}
+    </div>
+</div>
+<!-- {{ print .Site.Params.tiger.author }}
+{{ print .Params.author }}
+{{ $test := .Site.Params.tiger}}
+{{ print $test.author }} -->
+{{ $author := .Site.Params.tiger}}
+{{ if eq .Params.author "April" }}
+    {{ $author = .Site.Params.april}}
+{{ end }}
+<div class="main-profile">
+    <div class="main-profile__avatar">
+        {{ with $author.avatar }}
+            <img src="{{ . }}">
+        {{ end }}
+    </div>
+    <div class="main-profile__body">
+        <div class="main-profile__author">
+            {{ with $author.author }}
+            <span> {{ . }} </span>
+            {{ end }}
+        </div>
+        <div class="main-profile__description">
+            {{ with $author.description }}
+            <p> {{ . }} </p>
+            {{ end }}
+        </div>
+    </div>
+</div>
+<div class="main-line"></div>
+<div class="main-pn">
+    {{ with .PrevInSection }}
+    <a class="previous" href="{{.Permalink}}">
+        <div class="pn-dec"></div>
+        <div class="pn-els">
+            <div class="pn-el__1"> {{ .Date.Format "2006年1月2日" }} </div>
+            <div class="pn-el__2"> {{.Title}} </div>
+        </div>
+    </a>
+    {{ end }}
+    {{ with .NextInSection }}
+    <a class="next" href="{{.Permalink}}">
+        <div class="pn-dec"></div>
+        <div class="pn-els">
+            <div class="pn-el__1"> {{ .Date.Format "2006年1月2日" }} </div>
+            <div class="pn-el__2"> {{.Title}} </div>
+        </div>
+    </a>
+    {{ end }}
+</div>
+
+<div class="main-content">
+    <!-- 加入评论功能 -->
+    {{ partial "comments.html" . }}
+</div>
+
+{{ partial "footer.html" . }}

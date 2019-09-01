@@ -1,0 +1,100 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "@TheMoment"
+theme = "hugo-theme-yuki"
+author = "Cyris"
+
+# Copyright notice. This will display on the footer.
+copyright = ""
+paginate = 10
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+# Theme config
+[params]
+
+  # # The content you want to be listed on list pages.
+  # mainSections = ["post"]
+
+  # # The information will display on the post pages.
+  # author = "Tiger"
+  # description = "Short description"
+  # authorwebsite = "https://example.com/"
+
+  # The path to your images
+  favicon = "images/logo.png"
+  logo = "images/logo.png"
+  # avatar = ""
+  displayImg = "images/display.png"
+
+  # # This will display on the index page
+  # snsTitle = "Social"
+
+  # # Google Analytics API key.
+  # ga_api_key = "Your Google Analytics tracking id"
+
+[params.tiger]
+  # The information will display on the post pages.
+  author = "Tiger"
+  avatar = "/images/tiger.jpg"
+  description = "业余码农一枚，喜欢各种有意思的事情，对新奇的事物充满好奇心，爱挑战自己，越战越勇，不服输。"
+  authorwebsite = "https://example.com/"
+
+[params.april]
+  # The information will display on the post pages.
+  author = "April"
+  avatar = "/images/april.jpg"
+  description = "风起时微笑，叶落时吟唱，步履不停，常常在打量，这陌生又熟悉的世界，这模糊或清醒的梦境。"
+  authorwebsite = "https://example.com/"
+
+# Valine.
+# You can get your appid and appkey from https://leancloud.cn
+# more info please open https://valine.js.org
+[params.valine]
+  enable = true
+  appId = 'Qc6bp8DvRAeLd6DvwAl8ig8w-gzGzoHsz'
+  appKey = 'ScnptvmgpxCgIaKT48OxwyIy'
+  notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
+  verify = false # Verification code
+  avatar = 'mm'
+  placeholder = '说点什么吧...'
+  visitor = true
+
+# Navbar config
+[[menu.nav]]
+    name = "首页"
+    url = "/"
+    weight = 1
+
+[[menu.nav]]
+    name = "日志"
+    url = "/post"
+    weight = 2
+
+[[menu.nav]]
+    name = "关于"
+    url = "/about"
+    weight = 3
+
+# [[menu.nav]]
+#     name = "标签"
+#     url = "/tags/"
+#     weight = 4
+
+# # Social accounts config (This will display on the index page)
+# [[menu.social]]
+#     name = "Example-1"
+#     url = "/"
+#     weight = 1
+
+# [[menu.social]]
+#     name = "Example-2"
+#     url = "/"
+#     weight = 2
+
+# [[menu.social]]
+#     name = "Example-3"
+#     url = "/"
+#     weight = 3
+
+

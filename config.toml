@@ -14,7 +14,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
 
   # # The content you want to be listed on list pages.
-  # mainSections = ["post"]
+  mainSections = ["post"]
 
   # # The information will display on the post pages.
   # author = "Tiger"

@@ -18,7 +18,7 @@ tags: []
 ```{r, echo = FALSE}
 library(leaflet)
 library(leafletCN)
-leaflet() %>% amap() %>%
+leaflet(width = "100%") %>% amap() %>%
   addPopups(119.043838, 31.618732, "Aha，我思故我在！",
     options = popupOptions(closeButton = FALSE)) 
 ```

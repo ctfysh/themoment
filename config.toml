@@ -16,7 +16,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 # Theme config
 [params]
 
-  # # The content you want to be listed on list pages.
+  # The content you want to be listed on list pages.
   mainSections = ["post"]
 
   # # The information will display on the post pages.

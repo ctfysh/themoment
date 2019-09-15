@@ -6,10 +6,24 @@
     <description>Recent content in Posts on @TheMoment</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>暴走</title>
+      <link>/2019/09/14/%E6%9A%B4%E8%B5%B0/</link>
+      <pubDate>Sat, 14 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/14/%E6%9A%B4%E8%B5%B0/</guid>
+      <description>       本来以为天目湖山水园这个项目就是坐坐船随便逛逛，却不想开启了这次中秋旅程的暴走模式。
+午饭过后已是下午一点半，稍作准备我们就驱车前往天目湖山水园。由于在线定的票无法获取纸质票，所以我们也没有拿到赠送的游园地图，检票时刷我的身份证即可。入园时，工作人员说直行乘船。我们便走到游船检票口，刷过身份证后，略排了一小会儿队，就上了船。由于上船比较早，所以大家都涌向二楼观景台。虽然找到了一个靠边的位置，但是边上都站满了人，我只能透过缝隙看到山光湖色，也懒得起身拍照，就这么坐着小憩了一会儿。
+下船后，来到了一个叫做龙兴岛的地方。岛不大，却成为了我们的梦魇。由于没有提前做攻略，只能跟着游人前进，好在只有这么一条路，所以也不用烦神。首先来到的是龙兴寺遗址，遗址前有一口水井，然而我们在这里驻足，却是因为这里的洗手间。接着我们陆续路过半月潭、蝴蝶馆，走上自动扶梯来到蝶画馆，又沿路爬山来到猎人山棚，看到一排射箭的靶子，无心停留，只想前走，终于来到了一个开阔的地带，叫做天目揽胜，我们在平台上找人帮忙拍了合照。本以为这就是结束，然而不想这却是开始，经过比较长的一段下坡路后，我们来到精灵国，依次看到了笼子中的兔子和松鼠，也正好错过了黑人的演出。走了好久，又是下坡又是爬坡，终于到了游船码头。爸爸说：坑爹了。
+后来，我们坐船来到中国茶岛，结束了我们游船之旅。然而，我们已经无心观岛，只想快速到出口。于是，便朝着出口方向一路狂走。沿途也路过一些景点，比如中国茶文化苑、逍遥桥、状元酒肆，等跨过彩虹桥的时候，我们离出口已经不远了，碰巧还路过了天目湖水世界的入口。等走到停车场的时候，一家人已经累趴了。
+晚上，回酒店泡温泉的时候，浑身酸软，看看手机上的行走记录，已经两万多步了，居然在微信朋友圈里排名前几了。人生路也许就是这样，我们只知道一个大的方向，却不知道在走的过程中会遇到什么，会有哪些高低起伏。也不去想会不会留下我们的足迹，也不去计较会有怎样的辗转反侧。走路本身，就是意义的所在，而一路同行，就是最大的福分了。
+ {&#34;x&#34;:{&#34;options&#34;:{&#34;crs&#34;:{&#34;crsClass&#34;:&#34;L.CRS.EPSG3857&#34;,&#34;code&#34;:null,&#34;proj4def&#34;:null,&#34;projectedBounds&#34;:null,&#34;options&#34;:{}}},&#34;calls&#34;:[{&#34;method&#34;:&#34;addTiles&#34;,&#34;args&#34;:[&#34;http://webrd02.is.autonavi.com/appmaptile?lang=zh_cn&amp;size=1&amp;scale=1&amp;style=8&amp;x={x}&amp;y={y}&amp;z={z}&#34;,{&#34;minZoom&#34;:3,&#34;maxZoom&#34;:17,&#34;tileSize&#34;:256,&#34;subdomains&#34;:&#34;abc&#34;,&#34;errorTileUrl&#34;:&#34;&#34;,&#34;tms&#34;:false,&#34;noWrap&#34;:false,&#34;zoomOffset&#34;:0,&#34;zoomReverse&#34;:false,&#34;opacity&#34;:1,&#34;zIndex&#34;:1,&#34;detectRetina&#34;:false},null,{&#34;minZoom&#34;:0,&#34;maxZoom&#34;:18,&#34;tileSize&#34;:256,&#34;subdomains&#34;:&#34;abc&#34;,&#34;errorTileUrl&#34;:&#34;&#34;,&#34;tms&#34;:false,&#34;noWrap&#34;:false,&#34;zoomOffset&#34;:0,&#34;zoomReverse&#34;:false,&#34;opacity&#34;:1,&#34;zIndex&#34;:1,&#34;detectRetina&#34;:false,&#34;attribution&#34;:&#34;&amp;copy; amp.com&#34;}]},{&#34;method&#34;:&#34;addPopups&#34;,&#34;args&#34;:[31.289281,119.430515,&#34;天目湖山水园龙兴岛&#34;,null,null,{&#34;maxWidth&#34;:300,&#34;minWidth&#34;:50,&#34;autoPan&#34;:true,&#34;keepInView&#34;:false,&#34;closeButton&#34;:false,&#34;className&#34;:&#34;&#34;}]}],&#34;limits&#34;:{&#34;lat&#34;:[31.289281,31.289281],&#34;lng&#34;:[119.430515,119.430515]}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]} </description>
+    </item>
     
     <item>
       <title>中秋</title>

@@ -6,10 +6,23 @@
     <description>Recent content on @TheMoment</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>出差</title>
+      <link>/2019/09/17/%E5%87%BA%E5%B7%AE/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/17/%E5%87%BA%E5%B7%AE/</guid>
+      <description>       这周做得最多的事情就是出差。周二（也就是今天）是去长沙，周六去桂林。我是一个不太爱到处跑的人，所以即使出差，我也基本上不会流出时间外出走走。平日里，只要带上电脑，连上网络，在哪里都能变成我的办公室。所以，对于我而言，出差在主观上是不情愿的。但是，没有办法，工作需要而不得已为之。
+今日出差前，我完成了一件事情，就是国庆期间带April在湖北旅游。之前的旅游方案基本上都是April制定和落实的，我做了好多年的小白。这次由我来安排。原计划是参加完表弟婚礼后去神农架和恩施两地的，但十一期间确实交通衔接上比较困难，之前我打算去神农架，昨天在网上联系到一个恩施当地的旅行公司后，果断将行程改成了恩施。收费可能会比自助游或者其他旅行团高一点，但总体而言价格也不算太高，由于对方提出的是全套方案，吃住行全包，而且经过沟通连返程的车票也帮我们解决，所以这种外包倒让我觉得很轻松，因为不用烦神具体的细节。毕竟我没有去过恩施，从头学习和了解并且制定一整套完美无缺的计划会耗费我大量时间，而更头疼的是需要与很多方进行对接，包括住哪里、怎么过去、吃什么、怎么玩、如何衔接，跑过一遍自然会有经验，但是一次都没有过要制定好计划还是有很大的不确定性和风险的。
+然而，今天在跟旅行公司沟通最大的问题是，我需要提供我的真实信息，需要提前支付一笔定金。本来跟我对接的人的信息是我在网上随意找的，依据是大家的评价都还不错。但是，真要涉及信息提供和在线交易还是需要谨慎的，毕竟我拿什么来信任对方呢？我不禁想起之前April给我看的一段阿里巴巴的价值观，里面有一条是说“因为信任，所以简单”。信任问题是目前的最大交易成本。最后，我查看了一下对方的微信记录，发现她居然每天都有推文，而且都是和旅游有关的，在我能查看到的半年里，一日不断，就这点已经让我有些肃然起敬了。再综合我对恩施人淳朴的印象，网上对她的评价，以及整个跟她聊天的过程，最后我还是选择了信任。而信任的结果是，我仅仅半天就解决了之前一直纠结不清的问题。
+午休之后，我就打车去南京南站与袁老师汇合前往长沙。最后为自己的落脚点打一个卡。
+ {&#34;x&#34;:{&#34;options&#34;:{&#34;crs&#34;:{&#34;crsClass&#34;:&#34;L.CRS.EPSG3857&#34;,&#34;code&#34;:null,&#34;proj4def&#34;:null,&#34;projectedBounds&#34;:null,&#34;options&#34;:{}}},&#34;calls&#34;:[{&#34;method&#34;:&#34;addTiles&#34;,&#34;args&#34;:[&#34;http://webrd02.is.autonavi.com/appmaptile?lang=zh_cn&amp;size=1&amp;scale=1&amp;style=8&amp;x={x}&amp;y={y}&amp;z={z}&#34;,{&#34;minZoom&#34;:3,&#34;maxZoom&#34;:17,&#34;tileSize&#34;:256,&#34;subdomains&#34;:&#34;abc&#34;,&#34;errorTileUrl&#34;:&#34;&#34;,&#34;tms&#34;:false,&#34;noWrap&#34;:false,&#34;zoomOffset&#34;:0,&#34;zoomReverse&#34;:false,&#34;opacity&#34;:1,&#34;zIndex&#34;:1,&#34;detectRetina&#34;:false},null,{&#34;minZoom&#34;:0,&#34;maxZoom&#34;:18,&#34;tileSize&#34;:256,&#34;subdomains&#34;:&#34;abc&#34;,&#34;errorTileUrl&#34;:&#34;&#34;,&#34;tms&#34;:false,&#34;noWrap&#34;:false,&#34;zoomOffset&#34;:0,&#34;zoomReverse&#34;:false,&#34;opacity&#34;:1,&#34;zIndex&#34;:1,&#34;detectRetina&#34;:false,&#34;attribution&#34;:&#34;&amp;copy; amp.com&#34;}]},{&#34;method&#34;:&#34;addPopups&#34;,&#34;args&#34;:[28.224854,112.936177,&#34;金麓国际大酒店&#34;,null,null,{&#34;maxWidth&#34;:300,&#34;minWidth&#34;:50,&#34;autoPan&#34;:true,&#34;keepInView&#34;:false,&#34;closeButton&#34;:false,&#34;className&#34;:&#34;&#34;}]}],&#34;limits&#34;:{&#34;lat&#34;:[28.224854,28.224854],&#34;lng&#34;:[112.936177,112.936177]}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]} </description>
+    </item>
     
     <item>
       <title>格局</title>

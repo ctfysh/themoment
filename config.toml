@@ -100,4 +100,5 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 #     url = "/"
 #     weight = 3
 
-
+[markup.goldmark.renderer]
+  unsafe= true
